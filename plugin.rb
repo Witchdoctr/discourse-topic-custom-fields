@@ -8,7 +8,6 @@
 # url: https://github.com/pavilionedu/discourse-topic-custom-fields
 
 enabled_site_setting :topic_custom_field_enabled
-register_asset 'stylesheets/common.scss'
 
 ## 
 # type:        introduction
